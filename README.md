@@ -24,7 +24,6 @@
   <a href="#hammer-útil">Útil</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f827480c-6849-4083-ae43-7eb2df2ae034/deploy-status)](https://app.netlify.com/sites/githubexplore/deploys)
 
 ## :books: Sobre o projeto
 O GoFinances tem como objetivo controlar de forma simples suas despesas e receitas, podendo importar um arquivo CSV para registrar varios dados com um simples importar de arquivo. A aplicação pode ser acessada pela web ou aplicativo mobile.
