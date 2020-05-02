@@ -93,6 +93,8 @@ $ yarn start
 ![nodejs-logo](https://user-images.githubusercontent.com/26680031/80825975-d0686500-8bb7-11ea-82d3-afd711af6497.png)
 .
 ![yarn-kitten-full](https://user-images.githubusercontent.com/26680031/80825992-d8c0a000-8bb7-11ea-908e-418f21da3931.png)
+.
+![typeorm](https://user-images.githubusercontent.com/26680031/80851529-bac75f80-8bf8-11ea-8204-9da61166531e.png)
 
 <br/>
 
