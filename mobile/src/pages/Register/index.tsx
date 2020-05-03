@@ -2,13 +2,15 @@ import React from 'react';
 
 import Header from '../../components/Header';
 
-import { Container, Title } from './styles';
+import { Container, Content, Title } from './styles';
 
 const Import: React.FC = () => {
   return (
     <Container>
       <Header />
-      <Title>Import</Title>
+      <Content>
+        <Title>Cadastrar</Title>
+      </Content>
     </Container>
   );
 };
