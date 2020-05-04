@@ -28,6 +28,7 @@ const Routes: React.FC = () => (
       },
     })}
     tabBarOptions={{
+      keyboardHidesTabBar: true,
       activeTintColor: '#363F5F',
       inactiveTintColor: '#868C9F',
       style: {
