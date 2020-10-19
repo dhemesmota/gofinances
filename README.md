@@ -3,6 +3,7 @@
 </p>
 
 <h3 align="center">Adiministre suas financias!</h3>
+<p>.</p>
 <h5 align="center">Despesas e Receitas</h5>
 
 <p align="center">
@@ -71,10 +72,13 @@ $ yarn typeorm migration:run
 Como essa aplicação utilizar a API do GitHub basta executar e sair utilizando.
 ```Bash
 # .../suapasta/gofinances/backend
+
 $ yarn dev:server
 
 # .../suapasta/gofinances/frontend
+
 $ yarn start
+
 ```
 
 
