@@ -2,8 +2,8 @@
   <img alt="gofinances" title="gofinances" src="https://user-images.githubusercontent.com/26680031/80850916-ef391c80-8bf4-11ea-8ab8-280b7dbbf102.png" width="400px" />
 </p>
 
-<h3 align="center">Adiministre suas financias</h3>
-<h5 align="center">Despesas e receitas</h5>
+<h3 align="center">Adiministre suas financias!</h3>
+<h5 align="center">Despesas e Receitas</h5>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dhemesmota/gofinances">
